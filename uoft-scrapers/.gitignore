@@ -1,0 +1,11 @@
+html
+json
+__pycache__
+.DS_Store
+MANIFEST
+dist
+README.rst
+data
+test.py
+*.pyc
+.cobalt_data
